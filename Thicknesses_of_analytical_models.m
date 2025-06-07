@@ -8,10 +8,14 @@
 % the Free Software Foundation, either version 3 of the License, or
 % (at your option) any later version. 
 
-% Please cite us if you use our routine: 
+% Please cite us if you use our version: 
 % Yiwei Chen, Pingchuan Dong and Youheng Zhang (2025). 
 % An accurate analytical model and application method for squirt flow in anisotropic fractured rocks
 % 
+% This version is modified from the following script:
+% ALKHIMENKOV Y, QUINTAL B. (2022)
+% An accurate analytical model for squirt flow in anisotropic porous rocks Part 2: Complex geometry
+%
 clear,clc
 %%
 %%
